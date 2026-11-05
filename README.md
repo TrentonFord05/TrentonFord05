@@ -6,7 +6,7 @@ I am a senior at the University of North Texas studying Business Computer Inform
 
 I'm pursuing a career as a GRC analyst, with the long-term goal of moving into security leadership. I'm interested in how organizations identify risk, build controls, and meet compliance requirements.
 
-## Projects
+# Projects
 
 Portfolio projects built around fictional organizations, using free tools and public frameworks:
 
@@ -24,12 +24,12 @@ Portfolio projects built around fictional organizations, using free tools and pu
 
 | Wireshark Incident Analysis | Packet analysis and incident-style report | Coming soon |
 
-## Currently Learning
+# Currently Learning
 
 NIST frameworks, risk assessment, network fundamentals, and currently doing the Google Cybersecurity Professional Certificate
 Also, preparing for CompTIA Security+ and ISO 27001 foundation.
 
-## Connect
+# Connect
 
 - LinkedIn: www.linkedin.com/in/trentonford3
 - Email: fordtrenton03@gmail.com
